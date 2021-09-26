@@ -1,0 +1,11 @@
+const me = {
+    name: "Thomas Francois",
+    campus: "Remote",
+}
+
+module.exports = {
+
+  name: me.name,
+
+  campus: me.campus,
+};
